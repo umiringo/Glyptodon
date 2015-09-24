@@ -1,0 +1,11 @@
+{
+  "name": "Glyptodon",
+  "version": "1.0.0",
+  "description": "a http game server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umiringo",
+  "license": "ISC"
+}
