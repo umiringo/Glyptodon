@@ -2,7 +2,7 @@
 var net = {
 	port : 8878,
 	salt : 'Sz6MwPzxSNjzHcRbC85y2a1OtJHx7GAJ',
-	version : 1.0.0
+	version : '1.0.0'
 };
 
 //mongodb

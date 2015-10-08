@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+mongod --dbpath=../db/data --logpath=../db/logs/db.log
